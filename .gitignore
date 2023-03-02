@@ -33,8 +33,17 @@ out/
 *.iml
 *.ipr
 *.iws
+/build
 
 ##############################
 ## OS X
 ##############################
 .DS_Store
+src/test/java/TenTest.java
+src/test/java/TenTest.java
+src/test/java/TenTest.java
+src/test/java/SevenTest.java
+src/test/java/SecondTest.java
+src/test/java/TenTest.java
+*.java
+*.java
